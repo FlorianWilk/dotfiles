@@ -1,0 +1,6 @@
+[submodule "volume-control"]
+	path = volume-control
+	url = https://github.com/deficient/volume-control.git
+[submodule "keyboard-layout-indicator"]
+	path = keyboard-layout-indicator
+	url = https://github.com/deficient/keyboard-layout-indicator.git

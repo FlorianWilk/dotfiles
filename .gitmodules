@@ -1,0 +1,6 @@
+[submodule ".config/awesome/keyboard-layout-indicator"]
+	path = .config/awesome/keyboard-layout-indicator
+	url = https://github.com/deficient/keyboard-layout-indicator.git
+[submodule ".config/awesome/volume-control"]
+	path = .config/awesome/volume-control
+	url = https://github.com/deficient/volume-control.git
