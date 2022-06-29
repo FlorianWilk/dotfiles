@@ -1,1 +1,5 @@
-/home/florian/.xprofile
+terminator -plogs -T 'sys:logs' -e "zsh -c 'source ~/.zshrc && slogs'" &
+syncthing 2> ~/.syncthing.err &
+numlockx on &
+xset s 180
+xset dpms 180 190 220
