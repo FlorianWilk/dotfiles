@@ -1,1 +1,1 @@
-/home/florian/.config/awesome/rc.lua
+/home/florian/.mycastle/config/rc.lua
